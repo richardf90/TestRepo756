@@ -1,0 +1,1 @@
+Definition of ready: - The issue contains a clear title (what, when, where)
